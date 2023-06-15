@@ -204,7 +204,7 @@
                 <option value="">Laatste 7 dagen</option>
               </select>
               <button class="uppercase border-b border-red-600 text-red-600">
-                Export report
+                Export
               </button>
             </div>
           </div>
@@ -218,7 +218,7 @@
           <h2 class="font-bold text-lg text-gray-800 dark:text-gray-200">
             5,355
           </h2>
-          <p class="text-gray-400 font-lexend font-normal">APÏ Calls</p>
+          <p class="text-gray-400 font-lexend font-normal">API Calls</p>
 
           <span class="float-right">
             <h2 class="text-green-500 -mt-12 flex">
@@ -249,7 +249,7 @@
                 <option value="">Laatste 7 dagen</option>
               </select>
               <button class="uppercase border-b border-red-600 text-red-600">
-                Export report
+                Export
               </button>
             </div>
           </div>
@@ -289,7 +289,7 @@
               </select>
 
               <button class="uppercase border-b border-red-600 text-red-600">
-                Export report
+                Export
               </button>
             </div>
           </div>
@@ -387,7 +387,7 @@
           <option value="">Laatste 7 dagen</option>
         </select>
         <button class="uppercase border-b border-red-600 text-red-600">
-          Export Report
+          Export
         </button>
       </div>
     </div>
@@ -501,6 +501,7 @@
         },
 
         seriesDonut: [5, 15, 83],
+        
         tableTransaction: [
           {
             transaction: "Betaling van Luc Vervoort",

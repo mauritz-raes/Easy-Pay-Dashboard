@@ -44,7 +44,7 @@
   import Sidebar from "@/components/Sidebar";
   import Header from "@/components/Header";
   import Footer from "@/components/Footer";
-  // npm-js
+  
   import Scrollbar from "smooth-scrollbar";
 
   export default {
@@ -82,10 +82,6 @@
 </script>
 
 <style>
-  /*
-  Enter and leave animations can use different
-  durations and timing functions.
-*/
   .slide-up-enter-active {
     transition: all 0.3s ease-out;
   }
